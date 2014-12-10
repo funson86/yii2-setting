@@ -75,3 +75,7 @@ Once you set the value at the backend. Simply access your setting by the followi
 ```php
 echo Yii::$app->settings->get('siteName');
 ```
+
+Preview:
+-------
+![Yii2-Setting](yii2-setting-preview.png)
