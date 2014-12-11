@@ -1,8 +1,8 @@
 {
     "name": "funson86/yii2-setting",
     "description": "Yii2 Setting for other application",
-    "type": "yii2-setting",
-    "keywords": ["yii2","extension", "setting"],
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","setting"],
     "license": "Apache-2.0",
     "authors": [
         {
